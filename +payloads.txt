@@ -1,0 +1,5 @@
+----- REQUEST PAYLOAD -----
+
+
+----- RESPONSE PAYLOAD -----
+{"id":9223372000001093578,"category":{"id":1,"name":"Horse"},"name":"SASHA","photoUrls":[],"tags":[{"id":1,"name":"Rider1"},{"id":2,"name":"Rider2"}],"status":"available"}
