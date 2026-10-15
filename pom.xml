@@ -71,24 +71,7 @@
 			</plugin>
 		
 
-      <!----
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.11.0</version> <!-- Use a recent version -->
-                <configuration>
-                    <source>25.0.4.1</source> <!-- Match your project Java version -->
-                    <target>25.0.4.1</target>
-                    <annotationProcessorPaths>
-                        <path>
-                            <groupId>org.projectlombok</groupId>
-                            <artifactId>lombok</artifactId>
-                            <version>1.18.46</version> <!-- Match dependency version -->
-                        </path>
-                    </annotationProcessorPaths>
-                </configuration>
-            </plugin>----!>
-        
+           
     </plugins>
 	  
 	</build>
